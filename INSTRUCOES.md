@@ -9,7 +9,7 @@ Esses projetos serão organizados e realizados em ACE6(72h) e ACE7 (72h), sexto 
 ## Práticas de gestão de projetos
 Utilize Scrum para o desenvolvimento do projeto com sprints semanais. O backlog e sprints devem ser definidas no modelo disponibilizado no Jira.
 ## Tecnologias e arquitetura
-1. **FrontEnd**: React 
+1. **FrontEnd**: React ou React Native ou Flutter  
 2. **BackEnd**: Python** e/ou Java como os frameworks Django/Flask(Python) e Spring(Java).
 5. **Banco de dados**: MariaDB
 6. **Modelo de arquitetura**: API REST(Representational State Transfer) e SOA(Service Oriented Architecture).
